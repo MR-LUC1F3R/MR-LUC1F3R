@@ -1,4 +1,4 @@
-### Sql Injection by Mr-Lucifer 👋
+### Sql Injection. By Mr-Lucifer 👋
 
 <!--
 **Mr-Lucifer-CKS/Mr-Lucifer-CKS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

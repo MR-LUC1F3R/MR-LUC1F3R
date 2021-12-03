@@ -1,7 +1,7 @@
-### Mr-Lucifer 👋
+### MR-LUC1F3R 👋
 
 <!--
-**Mr-Lucifer-CKS/Mr-Lucifer-CKS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MR-LUC1F3R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

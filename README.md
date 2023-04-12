@@ -1,7 +1,7 @@
-### MR-LUC1F3R 👋
+### D4RK MTZ 👋
 
 <!--
-**MR-LUC1F3R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**D4RK MTZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
